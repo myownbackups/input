@@ -1,6 +1,6 @@
 module github.com/gospider007/input
 
-go 1.25
+go 1.26.0
 
 require github.com/gospider007/blog v0.0.0-20250815030743-f2af6b9013ab
 
