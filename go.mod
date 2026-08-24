@@ -2,7 +2,7 @@ module github.com/gospider007/input
 
 go 1.27.0
 
-require github.com/gospider007/blog v0.0.0-20260428065025-f3c72a6a8a13
+require github.com/gospider007/blog v0.0.0-20260824054542-c49de6365542
 
 require (
 	github.com/stretchr/testify v1.11.1 // indirect
