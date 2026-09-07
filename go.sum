@@ -1,5 +1,5 @@
-github.com/gospider007/blog v0.0.0-20260824054542-c49de6365542 h1:aj3zGVOgK3Xt0TtlvD6zLMyeY1wT7z/P+CBV8m3hzwM=
-github.com/gospider007/blog v0.0.0-20260824054542-c49de6365542/go.mod h1:3ZU8iU79cg0zAp+MLMib7wbGDyWDEwcR10Q8jf0JM7I=
+github.com/gospider007/blog v0.0.0-20260907015415-59e2a9022fa5 h1:w0rKxvYKZ5O+fajA2NYh7Skn6ZhM6jSBhNtcQxde2Q4=
+github.com/gospider007/blog v0.0.0-20260907015415-59e2a9022fa5/go.mod h1:0nFRjN5zEBNKIKyzJVo+Th8FThkzmRamjUNT/ISmhI0=
 github.com/stretchr/testify v1.12.1 h1:EuwCh5fleGS7H32xRwO3wRGT7DxrDhLAT6FF8MpWDWE=
 github.com/stretchr/testify v1.12.1/go.mod h1:MDEgiDPPsNp5cuIrHPPCyornHKgEVbtFUmoNlxoYthg=
 go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
